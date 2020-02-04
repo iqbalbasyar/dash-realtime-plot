@@ -1,2 +1,2 @@
-# dash realtime plot
- 
+# dash-realtime-plot
+ Realtime Plotting using Dash 
